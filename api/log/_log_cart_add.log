@@ -1,0 +1,41 @@
+
+2023-10-12 11:25:27 127.0.0.1 request:{
+  "customer_id":"CUS002",
+  "product_id":"PC0006",
+  "num":"1",
+  "price":"19900"
+} response:{"result":1,"message":"\u0e1e\u0e1a\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25","snum":1,"stotal":19900}
+2023-10-12 11:26:42 127.0.0.1 request:{
+  "customer_id":"CUS002",
+  "product_id":"PC0006",
+  "num":"1",
+  "price":"19900"
+} response:{"result":1,"message":"\u0e1e\u0e1a\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25","snum":2,"stotal":39800}
+2023-10-12 12:02:20 ::1 request:{"customer_id":"xxxxx","product_id":"PC0006","num":1,"price":19900} response:{"result":1,"message":"\u0e1e\u0e1a\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25","snum":1,"stotal":19900}
+2023-10-12 12:07:51 ::1 request:{"customer_id":"CUS002","product_id":"PC0006","num":1,"price":19900} response:{"result":1,"message":"\u0e1e\u0e1a\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25","snum":3,"stotal":59700}
+2023-10-12 12:11:34 ::1 request:{"customer_id":"CUS002","product_id":"PC0006","num":1,"price":19900} response:{"result":1,"message":"\u0e1e\u0e1a\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25","snum":4,"stotal":79600}
+2023-10-12 12:24:50 ::1 request:{"customer_id":"CUS002","product_id":"PC0006","num":1,"price":19900} response:{"result":1,"message":"\u0e1e\u0e1a\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25","datalist":{"snum":"5","stotal":"99500.00"}}
+2023-10-12 12:26:19 127.0.0.1 request:{
+  "customer_id":"CUS002",
+  "product_id":"PC0006",
+  "num":"1",
+  "price":"19900"
+} response:{"result":1,"message":"\u0e1e\u0e1a\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25","datalist":{"snum":"6","stotal":"119400.00"}}
+2023-10-12 22:22:02 127.0.0.1 request:{
+  "customer_id":"CUS002",
+  "product_id":"PC0006",
+  "num":"1",
+  "price":"19900"
+} response:{"result":1,"message":"\u0e1e\u0e1a\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25","datalist":{"snum":"7","stotal":"139300.00"}}
+2023-10-12 22:33:15 ::1 request:{"customer_id":"CUS002","product_id":"PC0006","num":1,"price":19900} response:{"result":1,"message":"\u0e1e\u0e1a\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25","datalist":{"snum":"8","stotal":"159200.00"}}
+2023-10-12 22:35:30 ::1 request:{"customer_id":"CUS002","product_id":"PDC003","num":1,"price":32900} response:{"result":1,"message":"\u0e1e\u0e1a\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25","datalist":{"snum":"9","stotal":"192100.00"}}
+2023-10-12 22:39:52 ::1 request:{"customer_id":"CUS002","product_id":"PC0006","num":1,"price":19900} response:{"result":1,"message":"\u0e1e\u0e1a\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25","datalist":{"snum":"1","stotal":"19900.00"}}
+2023-10-12 22:40:01 ::1 request:{"customer_id":"CUS002","product_id":"PDC002","num":1,"price":18000} response:{"result":1,"message":"\u0e1e\u0e1a\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25","datalist":{"snum":"2","stotal":"37900.00"}}
+2023-10-12 22:40:36 ::1 request:{"customer_id":"CUS002","product_id":"PDC004","num":1,"price":34900} response:{"result":1,"message":"\u0e1e\u0e1a\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25","datalist":{"snum":"3","stotal":"72800.00"}}
+2023-10-13 19:54:29 ::1 request:{"customer_id":"CUS002","product_id":"PDC001","num":1,"price":29000} response:{"result":1,"message":"\u0e1e\u0e1a\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25","datalist":{"snum":"4","stotal":"101800.00"}}
+2023-10-16 12:19:21 ::1 request:{"customer_id":"CUS002","product_id":"PC0006","num":1,"price":19900} response:{"result":1,"message":"\u0e1e\u0e1a\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25","datalist":{"snum":"5","stotal":"121700.00"}}
+2023-10-16 12:21:49 ::1 request:{"customer_id":"CUS002","product_id":"PDC001","num":1,"price":29000} response:{"result":1,"message":"\u0e1e\u0e1a\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25","datalist":{"snum":"6","stotal":"150700.00"}}
+2023-10-16 14:08:35 ::1 request:{"customer_id":"CUS002","product_id":"PDC003","num":1,"price":32900} response:{"result":1,"message":"\u0e1e\u0e1a\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25","datalist":{"snum":"7","stotal":"183600.00"}}
+2023-10-16 14:11:27 ::1 request:{"customer_id":"CUS002","product_id":"PDC002","num":1,"price":18000} response:{"result":1,"message":"\u0e1e\u0e1a\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25","datalist":{"snum":"8","stotal":"201600.00"}}
+2023-10-16 14:11:33 ::1 request:{"customer_id":"CUS002","product_id":"PDC001","num":1,"price":29000} response:{"result":1,"message":"\u0e1e\u0e1a\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25","datalist":{"snum":"9","stotal":"230600.00"}}
+2023-10-16 14:22:01 ::1 request:{"customer_id":"CUS001","product_id":"PC0006","num":1,"price":19900} response:{"result":1,"message":"\u0e1e\u0e1a\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25","datalist":{"snum":"1","stotal":"19900.00"}}
